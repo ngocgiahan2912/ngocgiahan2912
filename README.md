@@ -4,16 +4,16 @@
 B.Eng. Software Engineering, LUT University
 Currently pursuing M.Sc. in Software Product Management & Business
 
-Full-stack development. AI and LLM applications.
+Focused on full-stack development, AI applications, and digital products.
 
 ---
 
 ## Tech Stack
 
-**Languages:** JavaScript, TypeScript, Python, Java, C
-**Frameworks & Tools:** React, Node.js, Express, REST APIs, MongoDB
-**AI & Design:** LLMs, Git, Figma
-
+**Languages:** JavaScript, TypeScript, Python, Java, C, SQL
+**Frameworks & Technologies:** React, Node.js, Express, REST APIs, MongoDB
+**AI & Design:** LLMs, Figma
+**Tools:** Git
 ---
 
 ## Projects
@@ -51,7 +51,7 @@ Doubly linked list and red-black tree implementation in C, with unit tests, memo
 ## Education
 
 **LUT University**
-B.Eng. Software Engineering — graduated 2025
+B.Eng. Software Engineering — graduated 2026
 M.Sc. Software Product Management & Business — 2026–present
 
 ---
