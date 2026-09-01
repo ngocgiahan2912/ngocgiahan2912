@@ -12,8 +12,8 @@ Focused on full-stack development, AI applications, and digital products.
 
 **Languages:** JavaScript, TypeScript, Python, Java, C, SQL
 **Frameworks & Technologies:** React, Node.js, Express, REST APIs, MongoDB
-**AI & Design:** LLMs, Figma
-**Tools:** Git
+**AI & Design:** LLMs, ElevenLabs, Figma
+**Tools:** Git, Linux, Android Studio
 
 ---
 
@@ -43,7 +43,7 @@ Full-stack document editor with authentication, edit locking, comments, and PDF 
 ### Data Structures Project
 Doubly linked list and red-black tree implementation in C, with unit tests, memory leak checks, and Doxygen-generated documentation. Team project (3 people).
 
-`C` `Make`
+`C` `Make``Linux`
 
 [View project →](https://github.com/ngocgiahan2912/c-data-structures)
 
