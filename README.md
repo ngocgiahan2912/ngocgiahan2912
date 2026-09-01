@@ -14,6 +14,7 @@ Focused on full-stack development, AI applications, and digital products.
 **Frameworks & Technologies:** React, Node.js, Express, REST APIs, MongoDB
 **AI & Design:** LLMs, Figma
 **Tools:** Git
+
 ---
 
 ## Projects
