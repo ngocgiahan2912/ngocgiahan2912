@@ -43,7 +43,7 @@ Full-stack document editor with authentication, edit locking, comments, and PDF 
 ### Data Structures Project
 Doubly linked list and red-black tree implementation in C, with unit tests, memory leak checks, and Doxygen-generated documentation. Team project (3 people).
 
-`C` `Make``Linux`
+`C` `Make` `Linux`
 
 [View project →](https://github.com/ngocgiahan2912/c-data-structures)
 
