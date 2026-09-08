@@ -1,62 +1,59 @@
 # Han Nguyen
-### Software Engineer
+### Software Engineer · Full-Stack & Applied AI
+**M.Sc. Student in Software Product Management & Business @ LUT University**
 
-B.Eng. Software Engineering, LUT University
-Currently pursuing M.Sc. in Software Product Management & Business
+Vantaa / Helsinki, Finland · [LinkedIn](https://www.linkedin.com/in/han-nguyen-3327312b2/) · [GitHub](https://github.com/ngocgiahan2912) · [ngocgiahan2912@gmail.com](mailto:ngocgiahan2912@gmail.com)
 
-Focused on full-stack development, AI applications, and digital products.
-
----
-
-## Tech Stack
-
-**Languages:** JavaScript, TypeScript, Python, Java, C, SQL
-**Frameworks & Technologies:** React, Node.js, Express, REST APIs, MongoDB
-**AI & Design:** LLMs, ElevenLabs, Figma
-**Tools:** Git, Linux, Android Studio
+*Languages: Finnish (Fluent) · English (Fluent)*
 
 ---
 
-## Projects
-
-### AIVirtual
-AI-powered virtual advisor for students, built as a bachelor's thesis project. 3D avatar with real-time voice, facial expression, and lip-sync, connected to an LLM for academic and emotional support. Designed around a "support, not replacement" principle, with built-in safeguards for crisis situations.
-
-`React Three Fiber` `Node.js` `Groq API` `ElevenLabs` `Ready Player Me`
-
-[View project →](https://github.com/ngocgiahan2912/AIVirtual)
-
-### Calla Lily Digital Menu
-Responsive digital menu — designed for both print and web, first project built for an actual business.
-
-`HTML/CSS`
-
-[View project →](https://callalilymenu-project.netlify.app/)
-
-### Cloud Drive
-Full-stack document editor with authentication, edit locking, comments, and PDF export. Built for a web applications course.
-
-`TypeScript` `HTML/CSS` `Quill.js` `Node.js` `Express` `MongoDB`
-
-[View project →](https://github.com/ngocgiahan2912/cloud-drive)
-
-### Data Structures Project
-Doubly linked list and red-black tree implementation in C, with unit tests, memory leak checks, and Doxygen-generated documentation. Team project (3 people).
-
-`C` `Make` `Linux`
-
-[View project →](https://github.com/ngocgiahan2912/c-data-structures)
+### About
+Software Engineer combining technical execution with product-driven thinking. Experienced in full-stack web development, 3D/AI integration, and delivering client-facing software. Passionate about clean architecture, low-latency AI workflows, and user-centric digital products.
 
 ---
 
-## Education
+### Tech Stack
 
-**LUT University**
-B.Eng. Software Engineering — graduated 2026
-M.Sc. Software Product Management & Business — 2026–present
+- **Languages:** TypeScript, JavaScript, Python, C (C99), SQL, HTML5, CSS3
+- **Frontend:** React, React Three Fiber (Three.js), Tailwind CSS, Responsive Web Design
+- **Backend & Database:** Node.js, Express, REST APIs, MongoDB, Mongoose
+- **AI & Tools:** LLM Integration (Groq, OpenAI APIs), ElevenLabs TTS, Git, Linux, Make, Valgrind, Figma
 
 ---
 
-## Contact
+### Selected Projects
 
-[LinkedIn](https://www.linkedin.com/in/han-nguyen-3327312b2/) · [GitHub](https://github.com/ngocgiahan2912) · ngocgiahan2912@gmail.com
+#### [AIVirtual](https://github.com/ngocgiahan2912/AIVirtual) — 3D Conversational AI Student Advisor
+*Bachelor's Thesis Project · LUT University*
+- Built an interactive 3D avatar with real-time speech synthesis, emotional facial mapping, and lip-syncing.
+- Implemented Groq API (LLaMA) workflows with safety protocols and prompt guardrails for crisis situations.
+- Validated with student user testing, achieving an average UX score of **4.25 / 5.0** (Safety: **5.0 / 5.0**).
+- **Stack:** `React Three Fiber` `Node.js` `Groq API` `ElevenLabs` `Ready Player Me`  
+[Source Code](https://github.com/ngocgiahan2912/AIVirtual) · [Published Thesis (LUT Pub)](https://urn.fi/URN:NBN:fi-fe20251216120444)
+
+#### [Cloud Drive](https://github.com/ngocgiahan2912/cloud-drive) — Full-Stack Document Management System
+- Developed a collaborative document workspace featuring JWT authentication, inline commenting, and client-side PDF export.
+- Engineered concurrent edit-locking to prevent simultaneous modification conflicts during multi-user sessions.
+- **Stack:** `TypeScript` `Node.js` `Express` `MongoDB` `Quill.js`  
+[Source Code](https://github.com/ngocgiahan2912/cloud-drive)
+
+#### [C Data Structures Engine](https://github.com/ngocgiahan2912/c-data-structures)
+- Designed and benchmarked Doubly Linked Lists and balanced Red-Black Trees in pure C99 for record querying.
+- Verified zero memory leaks and pointer safety using Valgrind profiling; automated build pipeline with GNU Make.
+- **Stack:** `C (C99)` `Make` `Linux` `Valgrind` `Doxygen`  
+[Source Code](https://github.com/ngocgiahan2912/c-data-structures)
+
+#### [Calla Lily Digital Menu](https://callalilymenu-project.netlify.app/) — Commercial Client Project
+- Shipped a high-performance, mobile-first responsive web menu for an active restaurant business.
+- Configured stylesheets supporting both mobile touch navigation and standardized print layouts.
+- **Stack:** `HTML5` `CSS3` `JavaScript`  
+[Live Demo](https://callalilymenu-project.netlify.app/)
+
+---
+
+### Education
+
+- **M.Sc. in Software Product Management & Business** — LUT University *(2026 – 2028)*
+- **B.Eng. in Software Engineering** — LUT University *(2023 – 2026)*
+- **GPA:** 4.1 / 5.0 · Minor in Business Administration
