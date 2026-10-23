@@ -24,7 +24,7 @@ Software Engineer combining technical execution with product-driven thinking. Ex
 
 ### Selected Projects
 
-#### [AIVirtual](https://github.com/ngocgiahan2912/AIVirtual) — 3D Conversational AI Student Advisor
+#### [AIVirtual](https://github.com/ngocgiahan2912/AIVirtual) - 3D Conversational AI Student Advisor
 *Bachelor's Thesis Project · LUT University*
 - Built an interactive 3D avatar with real-time speech synthesis, emotional facial mapping, and lip-syncing.
 - Implemented Groq API (LLaMA) workflows with safety protocols and prompt guardrails for crisis situations.
@@ -32,7 +32,7 @@ Software Engineer combining technical execution with product-driven thinking. Ex
 - **Stack:** `React Three Fiber` `Node.js` `Groq API` `ElevenLabs` `Ready Player Me`  
 [Source Code](https://github.com/ngocgiahan2912/AIVirtual) · [Published Thesis (LUT Pub)](https://urn.fi/URN:NBN:fi-fe20251216120444)
 
-#### [Cloud Drive](https://github.com/ngocgiahan2912/cloud-drive) — Full-Stack Document Management System
+#### [Cloud Drive](https://github.com/ngocgiahan2912/cloud-drive) - Full-Stack Document Management System
 - Developed a collaborative document workspace featuring JWT authentication, inline commenting, and client-side PDF export.
 - Engineered concurrent edit-locking to prevent simultaneous modification conflicts during multi-user sessions.
 - **Stack:** `TypeScript` `Node.js` `Express` `MongoDB` `Quill.js`  
@@ -44,7 +44,7 @@ Software Engineer combining technical execution with product-driven thinking. Ex
 - **Stack:** `C (C99)` `Make` `Linux` `Valgrind` `Doxygen`  
 [Source Code](https://github.com/ngocgiahan2912/c-data-structures)
 
-#### [Calla Lily Digital Menu](https://callalilymenu-project.netlify.app/) — Commercial Client Project
+#### [Calla Lily Digital Menu](https://callalilymenu-project.netlify.app/) - Commercial Client Project
 - Shipped a high-performance, mobile-first responsive web menu for an active restaurant business.
 - Configured stylesheets supporting both mobile touch navigation and standardized print layouts.
 - **Stack:** `HTML5` `CSS3` `JavaScript`  
@@ -54,6 +54,6 @@ Software Engineer combining technical execution with product-driven thinking. Ex
 
 ### Education
 
-- **M.Sc. in Software Product Management & Business** — LUT University *(2026 – 2028)*
-- **B.Eng. in Software Engineering** — LUT University *(2023 – 2026)*
+- **M.Sc. in Software Product Management & Business** - LUT University *(2026 - 2028)*
+- **B.Eng. in Software Engineering** - LUT University *(2023 – 2026)*
 - **GPA:** 4.1 / 5.0 · Minor in Business Administration
