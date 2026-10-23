@@ -4,14 +4,16 @@
 
 Vantaa / Helsinki, Finland · [LinkedIn](https://www.linkedin.com/in/han-nguyen-3327312b2/) · [GitHub](https://github.com/ngocgiahan2912) · [ngocgiahan2912@gmail.com](mailto:ngocgiahan2912@gmail.com)
 
-*Languages: Finnish (Fluent) · English (Fluent) · Vietnamese (Native)*
+*Languages: Finnish (Fluent); English (Fluent); Vietnamese (Native)*
 
 ---
 
 ### About
-Software Engineer combining technical execution with product-driven thinking. Experienced in full-stack web development, 3D/AI integration, and delivering client-facing software. Passionate about clean architecture, low-latency AI workflows, and user-centric digital products.
+Software Engineer combining technical execution with product-driven thinking. Experienced in full-stack web development, 3D/AI integration, and delivering client-facing software. Passionate about clean architecture, applied AI workflows, and user-centric digital products.
 
 ---
+### Currently Exploring
+AI-assisted development tools; AI-powered applications; Product strategy & go-to-market thinking (M.Sc. studies).
 
 ### Tech Stack
 
@@ -34,7 +36,7 @@ Software Engineer combining technical execution with product-driven thinking. Ex
 
 #### [Cloud Drive](https://github.com/ngocgiahan2912/cloud-drive) - Full-Stack Document Management System
 - Developed a collaborative document workspace featuring JWT authentication, inline commenting, and client-side PDF export.
-- Engineered concurrent edit-locking to prevent simultaneous modification conflicts during multi-user sessions.
+- Engineered concurrent edit-locking and multer-based file streaming, with built-in i18n support (Finnish/English).
 - **Stack:** `TypeScript` `Node.js` `Express` `MongoDB` `Quill.js`  
 [Source Code](https://github.com/ngocgiahan2912/cloud-drive)
 
