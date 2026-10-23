@@ -1,8 +1,8 @@
 # Han Nguyen
-### Software Engineer · Full-Stack & Applied AI
+### Software Engineer - Full-Stack & Applied AI
 **M.Sc. Student in Software Product Management & Business @ LUT University**
 
-Vantaa / Helsinki, Finland · [LinkedIn](https://www.linkedin.com/in/han-nguyen-3327312b2/) · [GitHub](https://github.com/ngocgiahan2912) · [ngocgiahan2912@gmail.com](mailto:ngocgiahan2912@gmail.com)
+Vantaa / Helsinki, Finland - [LinkedIn](https://www.linkedin.com/in/han-nguyen-3327312b2/) - [GitHub](https://github.com/ngocgiahan2912) - [ngocgiahan2912@gmail.com](mailto:ngocgiahan2912@gmail.com)
 
 *Languages: Finnish (Fluent); English (Fluent); Vietnamese (Native)*
 
@@ -13,7 +13,7 @@ Software Engineer combining technical execution with product-driven thinking. Ex
 
 ---
 ### Currently Exploring
-AI-assisted development tools; AI-powered applications; Product strategy & go-to-market thinking (M.Sc. studies).
+AI-powered product development; LLM application architecture; Product strategy & go-to-market thinking (M.Sc. studies).
 
 ### Tech Stack
 
