@@ -4,7 +4,7 @@
 
 Vantaa / Helsinki, Finland · [LinkedIn](https://www.linkedin.com/in/han-nguyen-3327312b2/) · [GitHub](https://github.com/ngocgiahan2912) · [ngocgiahan2912@gmail.com](mailto:ngocgiahan2912@gmail.com)
 
-*Languages: Finnish (Fluent) · English (Fluent)*
+*Languages: Finnish (Fluent) · English (Fluent) · Vietnamese (Native)*
 
 ---
 
