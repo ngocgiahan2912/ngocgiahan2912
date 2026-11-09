@@ -50,7 +50,7 @@ AI-powered product development; LLM application architecture; Product strategy &
 - Shipped a high-performance, mobile-first responsive web menu for an active restaurant business.
 - Configured stylesheets supporting both mobile touch navigation and standardized print layouts.
 - **Stack:** `HTML5` `CSS3` `JavaScript`  
-[Live Demo](https://callalilymenu-project.netlify.app/)
+[Live Demo](callaproject.netlify.app)
 
 ---
 
